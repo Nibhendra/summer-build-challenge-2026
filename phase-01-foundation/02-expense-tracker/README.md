@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" alt="SpendWise Logo" width="150" height="150" style="border-radius: 30px;" />
+  <img src="assets/icon.png?v=2" alt="SpendWise Logo" width="150" height="150" style="border-radius: 30px;" />
   
   # SpendWise 💸
   
