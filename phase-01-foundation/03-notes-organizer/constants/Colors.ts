@@ -1,0 +1,32 @@
+export const Colors = {
+  background: '#0D0D0D',
+  surface: '#161616',
+  card: '#1C1C1C',
+  cardAlt: '#1A1A2E',
+  primary: '#6C63FF',
+  primaryLight: '#8B85FF',
+  primaryDark: '#4A43CC',
+  accent: '#00D4AA',
+  danger: '#FF6B6B',
+  warning: '#FFB347',
+  textPrimary: '#F0F0F0',
+  textSecondary: '#A0A0A0',
+  textMuted: '#606060',
+  border: '#252525',
+  borderLight: '#2E2E2E',
+  overlay: 'rgba(0,0,0,0.6)',
+  white: '#FFFFFF',
+  black: '#000000',
+  transparent: 'transparent',
+};
+
+export const NoteColors = [
+  '#6C63FF',
+  '#00D4AA',
+  '#FF6B6B',
+  '#FFB347',
+  '#4ECDC4',
+  '#45B7D1',
+  '#96CEB4',
+  '#E8A0BF',
+];
